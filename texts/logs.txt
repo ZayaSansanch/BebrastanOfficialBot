@@ -1,0 +1,7 @@
+2022-12-26 22:34:33.908471 - Started /help
+2022-12-26 22:34:38.081333 - Started /help
+2022-12-26 22:34:41.158975 - Started /listOfSongs
+2022-12-26 22:34:52.145752 - Started /toSong
+2022-12-26 22:34:59.618391 - Message(channel_chat_created=False, chat=Chat(first_name='Lëvi', id=233873778, type=<ChatType.PRIVATE>, username='leolevie'), date=datetime.datetime(2022, 12, 26, 15, 34, 59, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Lëvi', id=233873778, is_bot=False, language_code='en', username='leolevie'), group_chat_created=False, message_id=130, supergroup_chat_created=False, text='Bebrastan')
+2022-12-26 22:35:10.693705 - Started /toSong
+2022-12-26 22:35:13.454100 - Message(channel_chat_created=False, chat=Chat(first_name='Lëvi', id=233873778, type=<ChatType.PRIVATE>, username='leolevie'), date=datetime.datetime(2022, 12, 26, 15, 35, 13, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Lëvi', id=233873778, is_bot=False, language_code='en', username='leolevie'), group_chat_created=False, message_id=137, supergroup_chat_created=False, text='Hamster')
