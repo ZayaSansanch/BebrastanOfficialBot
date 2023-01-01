@@ -5,3 +5,21 @@
 2022-12-26 22:34:59.618391 - Message(channel_chat_created=False, chat=Chat(first_name='Lëvi', id=233873778, type=<ChatType.PRIVATE>, username='leolevie'), date=datetime.datetime(2022, 12, 26, 15, 34, 59, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Lëvi', id=233873778, is_bot=False, language_code='en', username='leolevie'), group_chat_created=False, message_id=130, supergroup_chat_created=False, text='Bebrastan')
 2022-12-26 22:35:10.693705 - Started /toSong
 2022-12-26 22:35:13.454100 - Message(channel_chat_created=False, chat=Chat(first_name='Lëvi', id=233873778, type=<ChatType.PRIVATE>, username='leolevie'), date=datetime.datetime(2022, 12, 26, 15, 35, 13, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Lëvi', id=233873778, is_bot=False, language_code='en', username='leolevie'), group_chat_created=False, message_id=137, supergroup_chat_created=False, text='Hamster')
+2022-12-26 22:49:04.851177 - Started /help
+2022-12-26 22:49:35.469828 - Started /help
+2022-12-26 22:49:46.071607 - Started /listOfSongs
+2022-12-26 22:50:00.354002 - Started /listOfSongs
+2022-12-26 22:50:03.528502 - Started /toSong
+2022-12-26 22:50:08.464336 - Message(channel_chat_created=False, chat=Chat(first_name='Daria', id=269175053, type=<ChatType.PRIVATE>, username='navserukimaster'), date=datetime.datetime(2022, 12, 26, 15, 50, 8, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Daria', id=269175053, is_bot=False, language_code='ru', username='navserukimaster'), group_chat_created=False, message_id=157, supergroup_chat_created=False, text='Hamster')
+2022-12-26 22:50:20.527952 - Started /listOfSongs
+2022-12-26 22:50:31.996608 - Started /toSong
+2022-12-26 22:50:35.989525 - Message(channel_chat_created=False, chat=Chat(first_name='Daria', id=269175053, type=<ChatType.PRIVATE>, username='navserukimaster'), date=datetime.datetime(2022, 12, 26, 15, 50, 35, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Daria', id=269175053, is_bot=False, language_code='ru', username='navserukimaster'), group_chat_created=False, message_id=168, supergroup_chat_created=False, text='Bebrastan')
+2022-12-26 22:53:40.835075 - Started /help
+2022-12-26 22:53:59.776460 - Started /listOfSongs
+2022-12-26 22:54:11.652155 - Message(channel_chat_created=False, chat=Chat(first_name='Василиса', id=529735217, type=<ChatType.PRIVATE>, username='learunaso'), date=datetime.datetime(2022, 12, 26, 15, 54, 11, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Василиса', id=529735217, is_bot=False, language_code='en', username='learunaso'), group_chat_created=False, message_id=179, supergroup_chat_created=False, text='Hamster')
+2022-12-26 22:54:14.668078 - Started /toSong
+2022-12-26 22:54:19.714843 - Message(channel_chat_created=False, chat=Chat(first_name='Василиса', id=529735217, type=<ChatType.PRIVATE>, username='learunaso'), date=datetime.datetime(2022, 12, 26, 15, 54, 19, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Василиса', id=529735217, is_bot=False, language_code='en', username='learunaso'), group_chat_created=False, message_id=182, supergroup_chat_created=False, text='Hamster')
+2022-12-26 22:54:32.029957 - Started /toSong
+2022-12-26 22:54:35.129935 - Message(channel_chat_created=False, chat=Chat(first_name='Василиса', id=529735217, type=<ChatType.PRIVATE>, username='learunaso'), date=datetime.datetime(2022, 12, 26, 15, 54, 35, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Василиса', id=529735217, is_bot=False, language_code='en', username='learunaso'), group_chat_created=False, message_id=190, supergroup_chat_created=False, text='Nebraskan')
+2022-12-26 22:54:38.583643 - Started /toSong
+2022-12-26 22:54:43.806345 - Message(channel_chat_created=False, chat=Chat(first_name='Василиса', id=529735217, type=<ChatType.PRIVATE>, username='learunaso'), date=datetime.datetime(2022, 12, 26, 15, 54, 43, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='Василиса', id=529735217, is_bot=False, language_code='en', username='learunaso'), group_chat_created=False, message_id=194, supergroup_chat_created=False, text='Bebrastan')
